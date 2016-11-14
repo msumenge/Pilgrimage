@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Pilgrimage</title>
-    <!-- Bootstrap CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom CSS -->
-</head>
-
-<body>
-    <div class="container-fluid">
+<div class="container-fluid">
         <div class="row">
             <div class="col-sm-1" style="height: 541px; background-color:#f6f5f0;">
                 <div id="menu-name" style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -o-transform: rotate(270deg);
@@ -52,9 +38,3 @@
             </div>
         </div>
     </div>
-    <!--Scripts-->
-    <script src="js/jquery-3.1.1.min.js "></script>
-    <script src="js/bootstrap.min.js "></script>
-</body>
-
-</html>
